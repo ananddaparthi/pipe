@@ -9,8 +9,8 @@
 	
 	<distributionManagement>
  <snapshotRepository>
-      <id>developer</id>
-      <url>http://localhost:8081/repository/Repo/</url>
+      <id>complete_flow-userid</id>
+      <url>http://localhost:8081/repository/complete_flow/</url>
    </snapshotRepository>
 					
 </distributionManagement>
